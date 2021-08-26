@@ -42,7 +42,7 @@
     - @Tag: declara tags para testes de filtragem;
     - @ExtendWith: é usado para registrar extensões personalizadas;
     - @BeforeEach: indica que o método anotado será executado antes de cada método de tete;
-    - @AfterEach: indica que o método anotado será executado antes de todos os métodos de teste na classe atual;
+    - @AfterEach: indica que o método anotado será executado após os métodos de teste na classe atual;
     - @AfterAll: indica que o método anotado será executado após todos os métodos de teste na classe atual;
     - @Disable: é usado para desativar uma classe ou método de teste;
 
