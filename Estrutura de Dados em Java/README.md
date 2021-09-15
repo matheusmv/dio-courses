@@ -1,17 +1,17 @@
 # Estrutura de dados em Java
 
-### [Introdução]()
+### [Introdução](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/01/01.md)
 
-### [Pilhas]()
+### [Pilhas](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/02/02.md)
 
-### [Filas]()
+### [Filas](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/03/03.md)
 
-### [Listas Encadeadas]()
+### [Listas Encadeadas](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/04/04.md)
 
-### [Listas Duplamente Encadeadas]()
+### [Listas Duplamente Encadeadas](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/05/05.md)
 
-### [Listas Circulares]()
+### [Listas Circulares](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/06/06.md)
 
-### [Árvores]()
+### [Árvores Binárias de Busca](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/07/07.md)
 
 ### [Estruturas de dados do Java]()
