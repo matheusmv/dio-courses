@@ -14,4 +14,4 @@
 
 ### [Árvores Binárias de Busca](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/07/07.md)
 
-### [Estruturas de dados do Java]()
+### [Estruturas de dados do Java](https://github.com/matheusmv/dio-courses/blob/main/Estrutura%20de%20Dados%20em%20Java/08/08.md)
