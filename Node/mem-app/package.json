@@ -1,0 +1,11 @@
+{
+  "name": "mem-app",
+  "version": "1.0.0",
+  "description": "Application to manage RAM memory consumption",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Matheus Matias",
+  "license": "MIT"
+}
